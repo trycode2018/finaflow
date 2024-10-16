@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Api", "Fina.Api\Fina.Api.csproj", "{28B6C92F-A3E6-40EB-A8CB-43A25DA0EBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Web", "Fina.Web\Fina.Web.csproj", "{B87316D2-8370-4A2B-A8BC-A601F5C2EFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Core", "Fina.Core\Fina.Core.csproj", "{2D273D98-0E47-468F-839A-1D348A7267B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B6C92F-A3E6-40EB-A8CB-43A25DA0EBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B6C92F-A3E6-40EB-A8CB-43A25DA0EBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B6C92F-A3E6-40EB-A8CB-43A25DA0EBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B6C92F-A3E6-40EB-A8CB-43A25DA0EBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87316D2-8370-4A2B-A8BC-A601F5C2EFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87316D2-8370-4A2B-A8BC-A601F5C2EFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87316D2-8370-4A2B-A8BC-A601F5C2EFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87316D2-8370-4A2B-A8BC-A601F5C2EFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D273D98-0E47-468F-839A-1D348A7267B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D273D98-0E47-468F-839A-1D348A7267B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D273D98-0E47-468F-839A-1D348A7267B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D273D98-0E47-468F-839A-1D348A7267B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8CEEF6E-6E02-442E-9D4B-75628F834B9F}
+	EndGlobalSection
+EndGlobal
