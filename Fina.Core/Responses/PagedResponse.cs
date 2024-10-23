@@ -30,7 +30,7 @@ namespace Fina.Core.Responses
         public PagedResponse(
             T? data, 
             int code=Configuration.DefaultStatusCode,
-            string? message=null
+            string? message=null 
             ):base(data,code,message) { }
 
         public int CurrentPage { get; set; }
