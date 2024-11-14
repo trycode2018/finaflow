@@ -22,7 +22,7 @@ namespace Fina.Core.Responses
         Message = message;
         }
 
-        public int _code = 200;
+        public int _code = Configuration.DefaultStatusCode;
         public T? Data { get; set; }
         public string? Message { get; set; }
 
